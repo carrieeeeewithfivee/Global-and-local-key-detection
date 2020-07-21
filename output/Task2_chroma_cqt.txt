@@ -1,0 +1,102 @@
+***** Q2 Krumhansl-Schumuckler *****
+***** Normal *****
+GTZAN Genre    	accuracy
+rock     	   51.02%
+country  	   60.61%
+pop      	   54.26%
+metal    	   51.61%
+jazz     	   21.52%
+reggae   	   39.18%
+classical	     nan%
+disco    	   33.67%
+hiphop   	   19.75%
+blues    	   27.55%
+GTZAN Overall Accuracy:	40.62%
+***** Q2 Krumhansl-Schumuckler *****
+***** Normal *****
+GIANTSTEPS Overall Accuracy:	44.54%
+***** Q2 Krumhansl-Schumuckler *****
+***** Y: 1 *****
+GTZAN Genre    	accuracy
+rock     	   46.94%
+country  	   55.56%
+pop      	   52.13%
+metal    	   46.24%
+jazz     	   17.72%
+reggae   	   37.11%
+classical	     nan%
+disco    	   31.63%
+hiphop   	   18.52%
+blues    	   28.57%
+GTZAN Overall Accuracy:	37.87%
+***** Q2 Krumhansl-Schumuckler *****
+***** Y: 10 *****
+GTZAN Genre    	accuracy
+rock     	   44.90%
+country  	   46.46%
+pop      	   46.81%
+metal    	   40.86%
+jazz     	   11.39%
+reggae   	   32.99%
+classical	     nan%
+disco    	   27.55%
+hiphop   	   20.99%
+blues    	   27.55%
+GTZAN Overall Accuracy:	33.93%
+***** Q2 Krumhansl-Schumuckler *****
+***** Y: 100 *****
+GTZAN Genre    	accuracy
+rock     	   42.86%
+country  	   37.37%
+pop      	   41.49%
+metal    	   40.86%
+jazz     	   10.13%
+reggae   	   29.90%
+classical	     nan%
+disco    	   25.51%
+hiphop   	   19.75%
+blues    	   29.59%
+GTZAN Overall Accuracy:	31.42%
+***** Q2 Krumhansl-Schumuckler *****
+***** Y: 1000 *****
+GTZAN Genre    	accuracy
+rock     	   41.84%
+country  	   35.35%
+pop      	   41.49%
+metal    	   39.78%
+jazz     	   10.13%
+reggae   	   29.90%
+classical	     nan%
+disco    	   25.51%
+hiphop   	   20.99%
+blues    	   29.59%
+GTZAN Overall Accuracy:	31.06%
+***** Q2 Krumhansl-Schumuckler *****
+***** Y: 1 *****
+GIANTSTEPS Overall Accuracy:	42.88%
+***** Q2 Krumhansl-Schumuckler *****
+***** Y: 10 *****
+GIANTSTEPS Overall Accuracy:	41.23%
+***** Q2 Krumhansl-Schumuckler *****
+***** Y: 100 *****
+GIANTSTEPS Overall Accuracy:	40.07%
+***** Q2 Krumhansl-Schumuckler *****
+***** Y: 1000 *****
+GIANTSTEPS Overall Accuracy:	39.90%
+***** Q2 Krumhansl-Schumuckler *****
+***** Weighted *****
+GTZAN Genre    	accuracy
+rock     	   58.98%
+country  	   73.64%
+pop      	   59.36%
+metal    	   57.53%
+jazz     	   33.92%
+reggae   	   47.32%
+classical	    0.00%
+disco    	   45.71%
+hiphop   	   27.04%
+blues    	   38.16%
+GTZAN Overall Accuracy:	49.80%
+***** Q2 Krumhansl-Schumuckler *****
+***** Weighted *****
+GIANTSTEPS Overall Accuracy:	51.54%

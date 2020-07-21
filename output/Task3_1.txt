@@ -1,0 +1,14 @@
+***** Task 3: local key detection *****
+BPS Overall Accuracy:	18.60%
+BPS Overall Weighted Accuracy:	27.59%
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+***** Q1 *****
+GTZAN Genre    	accuracy
+rock     	   34.69%
+country  	   32.32%
+pop      	   41.49%
+metal    	   24.73%
+jazz     	   16.46%
+reggae   	   32.99%
+classical	     nan%
+disco    	   31.63%
+hiphop   	   13.58%
+blues    	    7.14%
+GTZAN Overall Accuracy:	26.52%
+***** Q1 *****
+GIANTSTEPS Overall Accuracy:	22.35%

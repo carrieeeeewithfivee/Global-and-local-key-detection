@@ -1,0 +1,3 @@
+***** Task 3: local key detection *****
+A-MAPS Overall Accuracy:	21.35%
+A-MAPS Overall Weighted Accuracy:	32.59%

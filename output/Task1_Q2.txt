@@ -1,0 +1,60 @@
+***** Q1 Y: 1 *****
+GTZAN Genre    	accuracy
+rock     	   33.67%
+country  	   34.34%
+pop      	   40.43%
+metal    	   21.51%
+jazz     	   16.46%
+reggae   	   31.96%
+classical	     nan%
+disco    	   32.65%
+hiphop   	   13.58%
+blues    	    7.14%
+GTZAN Overall Accuracy:	26.16%
+***** Q1 Y: 10 *****
+GTZAN Genre    	accuracy
+rock     	   30.61%
+country  	   31.31%
+pop      	   39.36%
+metal    	   19.35%
+jazz     	   11.39%
+reggae   	   28.87%
+classical	     nan%
+disco    	   28.57%
+hiphop   	   14.81%
+blues    	    4.08%
+GTZAN Overall Accuracy:	23.54%
+***** Q1 Y: 100 *****
+GTZAN Genre    	accuracy
+rock     	   27.55%
+country  	   31.31%
+pop      	   34.04%
+metal    	   19.35%
+jazz     	   13.92%
+reggae   	   24.74%
+classical	     nan%
+disco    	   28.57%
+hiphop   	    9.88%
+blues    	    4.08%
+GTZAN Overall Accuracy:	21.86%
+***** Q1 Y: 1000 *****
+GTZAN Genre    	accuracy
+rock     	   28.57%
+country  	   31.31%
+pop      	   32.98%
+metal    	   19.35%
+jazz     	   13.92%
+reggae   	   25.77%
+classical	     nan%
+disco    	   27.55%
+hiphop   	    8.64%
+blues    	    5.10%
+GTZAN Overall Accuracy:	21.86%
+***** Q1 Y: 1 *****
+GIANTSTEPS Overall Accuracy:	21.85%
+***** Q1 Y: 10 *****
+GIANTSTEPS Overall Accuracy:	20.70%
+***** Q1 Y: 100 *****
+GIANTSTEPS Overall Accuracy:	20.03%
+***** Q1 Y: 1000 *****
+GIANTSTEPS Overall Accuracy:	20.03%
